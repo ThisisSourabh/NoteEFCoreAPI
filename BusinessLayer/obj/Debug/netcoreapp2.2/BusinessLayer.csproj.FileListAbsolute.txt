@@ -1,0 +1,14 @@
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.AssemblyInfo.cs
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.deps.json
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\bin\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csproj.CopyComplete
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.pdb

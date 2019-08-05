@@ -1,0 +1,12 @@
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.deps.json
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CopyComplete
