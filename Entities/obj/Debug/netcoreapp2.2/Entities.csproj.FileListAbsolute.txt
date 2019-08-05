@@ -7,3 +7,6 @@ C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\Entities\obj\Debu
 C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
 C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\Entities\obj\Debug\netcoreapp2.2\Entities.dll
 C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\Entities\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\Entities\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CopyComplete

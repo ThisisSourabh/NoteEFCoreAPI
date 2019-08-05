@@ -52,13 +52,13 @@ namespace API.Controllers
         {
             try
             {
-                return StatusCode((int)HttpStatusCode.InternalServerError);
+                return Ok(service.CreateNotes(note));
             }
             catch (NoteAlreadyExistsException naee)
             {
                 return Conflict(naee.Message);
             }
-            catch
+            catch(Exception n)
             {
                 return StatusCode((int)HttpStatusCode.InternalServerError);
             }

@@ -12,3 +12,5 @@ C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\bin
 C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csproj.CopyComplete
 C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.dll
 C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\BusinessLayer\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml

@@ -10,3 +10,5 @@ C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\obj\De
 C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\bin\Debug\netcoreapp2.2\Entities.dll
 C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\bin\Debug\netcoreapp2.2\Entities.pdb
 C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CopyComplete
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\cgi\source\repos\ASPDotNetApplications\NoteAPI-EFCore\DataAccess\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml

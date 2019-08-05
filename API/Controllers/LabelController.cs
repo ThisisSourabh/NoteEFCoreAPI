@@ -15,13 +15,9 @@ namespace API.Controllers
     [ApiController]
     public class LabelController : ControllerBase
     {
-        [Route("api/[controller]")]
-        [ApiController]
-        public class NotesController : ControllerBase
-        {
             private readonly ILabelService service;
 
-            public NotesController(ILabelService labelService)
+            public LabelController(ILabelService labelService)
             {
                 service = labelService;
             }
@@ -34,7 +30,7 @@ namespace API.Controllers
                 }
                 catch (Exception)
                 {
-                    return StatusCode((int)HttpStatusCode.OK, service.GetAllLables());
+                    return StatusCode((int)HttpStatusCode.OK);
                 }
             }
 
@@ -56,7 +52,7 @@ namespace API.Controllers
             {
                 try
                 {
-                    return StatusCode((int)HttpStatusCode.InternalServerError);
+                    return Ok(service.Createlabel(label));
                 }
                 catch (LabelAlreadyExistException laae)
                 {
@@ -90,4 +86,3 @@ namespace API.Controllers
 
         }
     }
-}
