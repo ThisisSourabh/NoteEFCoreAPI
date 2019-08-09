@@ -47,7 +47,7 @@ namespace API.Controllers
                 return StatusCode((int)HttpStatusCode.InternalServerError);
             }
         }
-
+        [HttpPost]
         public IActionResult Post([FromBody]Note note)
         {
             try
